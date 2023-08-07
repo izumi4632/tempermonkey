@@ -5,8 +5,6 @@
 // @match        *://*/*
 // ==/UserScript==
 
-'use strict';
-
 /**
  * Copies the text content of an element selected by a JavaScript path.
  * @param {string} target_js_path - The JavaScript path to the target element.
