@@ -10,6 +10,6 @@
     console.log("コピーしました");
   }
   
-  // 5秒おきに繰り返し
-  setInterval(copy_text, 5000);
+  // 10秒おきに繰り返し
+  setInterval(copy_text, 10000);
 })();
