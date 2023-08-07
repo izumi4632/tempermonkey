@@ -4,6 +4,7 @@
 // @description  izumi's tempermonkey script for zero2one
 // @match        https://zero2one.jp/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=zero2one.jp
+// @require      https://raw.githubusercontent.com/izumi4632/tempermonkey/master/general.js?token=GHSAT0AAAAAACF67W2MVCVZ3RDM4DGLPEA4ZGQ2HNA
 // ==/UserScript==
 
 (function() {
